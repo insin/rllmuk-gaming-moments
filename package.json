@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-dom": "^16.9.0",
+    "react": "^16.9.0"
+  },
+  "devDependencies": {
+    "next": "^9.0.5"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  }
+}
